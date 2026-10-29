@@ -1,16 +1,32 @@
-## Hi there 👋
+ Hi, I'm Jay Choudhary 👋
 
-<!--
-**jaychoudhari1508-glitch/jaychoudhari1508-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year B.Tech Student at Ramdeobaba University, Nagpur
+💻 Branch: Electronic and Computer Science
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning C, C++, Python and Java
+- 💡 Interested in Software Development, Electronics and Cybersecurity
+- 🚀 Building my programming skills through practice and projects
+- 🎯 Aspiring Software Developer
+
+Skills
+
+- C Programming
+- C++
+- Python (Learning)
+- Java (Learning)
+- Problem Solving (Learning)
+
+Projects
+
+- C Programming Practice
+- Python Beginner Projects
+
+Connect With Me
+
+- GitHub: https://github.com/jaychoudhari1508-glitch
+
+---
+
+Learning every day, one program at a time!
